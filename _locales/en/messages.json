@@ -1,0 +1,10 @@
+{
+    "extension_name": {
+        "message": "A LinkedIn Extension",
+        "description": "Automation LinkedIn Helper."
+    },
+    "extension_description": {
+        "message": "This is A LinkedIn Extension. You should tell us what your extension does here.",
+        "description": "Description of what the extension does."
+    }
+}
